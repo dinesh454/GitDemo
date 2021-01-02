@@ -55,6 +55,9 @@ portalHomePage p=new portalHomePage(driver);
 	    public void close_browsers() throws Throwable {
 	        driver.quit();
 	        System.out.println("git updated");
+	        System.out.println("git updated2");
+	        System.out.println("git updated3");
+	        System.out.println("git updated5");
 	    }
 	
 
