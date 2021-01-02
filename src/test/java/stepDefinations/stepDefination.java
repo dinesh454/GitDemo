@@ -54,6 +54,7 @@ portalHomePage p=new portalHomePage(driver);
 	 @And("^close browsers$")
 	    public void close_browsers() throws Throwable {
 	        driver.quit();
+	        System.out.println("git updated");
 	    }
 	
 
